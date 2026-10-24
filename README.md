@@ -12,18 +12,10 @@
 <b>3 products built</b> · <a href="#-the-actual-work">see the work</a>
 </p>
 
-*Before product, there was a mechanical drawing and a microphone. Turns out both teach the same thing: structure first, then feeling.*
+*Besides product, there is a mechanical drawing and a microphone. Turns out both teach the same thing: structure first, then feeling.*
 
 👉 *Short on time? Open [MoneyMic](https://github.com/kaunnikhil/MoneyMic). It's the fastest way to see how I think.*
 
-```text
-══════════════════════════════════════════════════════════════
- DRAWING NO. 01      PRODUCT BUILDER · DATA ENTHUSIAST
- DRAWN BY ......... Nikhil Menaria
- SCALE ............ 1:1 (no filler)
- REV .............. 2026
-══════════════════════════════════════════════════════════════
-```
 
 ## 📐 Spec Sheet
 
@@ -63,7 +55,6 @@ STATUS .......... Open to PM / APM internships
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge)
 ![LLM APIs](https://img.shields.io/badge/LLM_APIs-6E56CF?style=for-the-badge)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
