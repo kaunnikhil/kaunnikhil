@@ -138,7 +138,6 @@ STATUS .......... Open to PM / APM internships
 
 - **MoneyMic:** taking the semifinal MVP toward a fuller agent.
 - **StratIQ:** hardening the KPI investigation workflow beyond the simulated test case.
-- **Next:** product teardowns and strategy breakdowns. *Coming soon.*
 
 <!-- TESTIMONIAL: when you have one, uncomment and edit
 ## 💬 What people say
@@ -163,8 +162,3 @@ Singer and songwriter. I rewrite lyrics over songs that already exist, and I com
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-menaria/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikhilmenariawork@gmail.com)
 
-```text
-══════════════════════════════════════════════════════════════
- END OF DRAWING · NOTES: Everything here is built and linked.
-══════════════════════════════════════════════════════════════
-```
